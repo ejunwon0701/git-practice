@@ -1,0 +1,6 @@
+Git practice notes
+
+1. Check the repository status.
+2. Stage the changed files.
+3. Commit the staged changes.
+4. Push the commits to GitHub.
